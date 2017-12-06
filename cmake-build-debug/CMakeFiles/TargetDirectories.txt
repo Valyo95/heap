@@ -1,0 +1,3 @@
+/home/valyo95/CLionProjects/heap/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/valyo95/CLionProjects/heap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/valyo95/CLionProjects/heap/cmake-build-debug/CMakeFiles/heap.dir
